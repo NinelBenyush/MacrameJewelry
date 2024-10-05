@@ -38,19 +38,19 @@ export default function Header() {
           >
             <div className="text-sm lg:flex lg:flex-row lg:items-center text-right lg:space-x-4 space-x-reverse lg:space-x-reverse">
               <a
-                href="#collections"
+                href="/collections"
                 className="block mt-4 lg:inline-block lg:mt-0 text-slate-700 hover:text-white mr-4"
               >
                 קולקציה
               </a>
               <a
-                href="#information"
+                href="/information"
                 className="block mt-4 lg:inline-block lg:mt-0 text-slate-700 hover:text-white mr-4"
               >
                 מידע נוסף
               </a>
               <a
-                href="#contact"
+                href="/contact"
                 className="block mt-4 lg:inline-block lg:mt-0 text-slate-700 hover:text-white"
               >
                 צרו קשר
